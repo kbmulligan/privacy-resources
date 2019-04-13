@@ -4,17 +4,17 @@ A collection of privacy resources for those interested in protecting information
 
 ## browsers
 
-[Brave](https://www.brave.com) - Privacy-respecting web browser for desktop and iOS/Android
-[Firefox](https://www.mozilla.org/en-US/firefox/)
-[Firefox Mobile](https://www.mozilla.org/en-US/firefox/mobile/)
+-[Brave](https://www.brave.com) - Privacy-respecting web browser for desktop and iOS/Android
+-[Firefox](https://www.mozilla.org/en-US/firefox/)
+-[Firefox Mobile](https://www.mozilla.org/en-US/firefox/mobile/)
 
 
 ## browser ad blockers/tracker blockers and other addons
-[uBlock Origin](https://www.ublock.org/)
+-[uBlock Origin](https://www.ublock.org/)
 
 
 ## search
-
+-[DuckDuckGo](https://www.duckduckgo.com)
 
 
 ## social

@@ -1,5 +1,7 @@
 # privacy-resources
-A collection of privacy resources for those interested in protecting information, especially personal
+
+*A collection of privacy resources for those interested in protecting information, especially personal*
+
 ---
 
 ## browsers
@@ -8,7 +10,7 @@ A collection of privacy resources for those interested in protecting information
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [Firefox Mobile](https://www.mozilla.org/en-US/firefox/mobile/)
 - [Tor](https://www.torproject.org/) - Explore the web using the Tor network to increase anonymity
-
+  
 
 ## browser ad blockers/tracker blockers and other addons
 - [uBlock Origin](https://www.ublock.org/)

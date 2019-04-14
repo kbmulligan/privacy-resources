@@ -1,8 +1,6 @@
 # privacy-resources
+*A collection of privacy resources for those interested in protecting information, especially personal*  
 
-*A collection of privacy resources for those interested in protecting information, especially personal*
-
-  
 
 ## browsers
 
@@ -17,7 +15,11 @@
 
 
 ## search
-- [DuckDuckGo](https://www.duckduckgo.com)
+- [DuckDuckGo](https://www.duckduckgo.com) - "Our privacy policy is simple: we don’t collect
+or share any of your personal information."
+- [Qwant](https://www.qwant.com/) - European and cookie-free
+- [Startpage](https://www.startpage.com/) - They search google for you and act as proxy
+- [searx](https://searx.me/) - Search aggregator, does not store user info
 
 
 ## social

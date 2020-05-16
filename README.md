@@ -38,6 +38,7 @@ or share any of your personal information."
 
 ## virtual private networks (VPNs)
 - [openvpn](https://openvpn.net/download-open-vpn/)
+- [WireGuard](https://www.wireguard.com/)
 
 ## concepts
 - [Why does privacy matter if I have nothing to hide?](https://teachprivacy.com/10-reasons-privacy-matters/)
